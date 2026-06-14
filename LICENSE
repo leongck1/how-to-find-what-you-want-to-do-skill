@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 CK
+Copyright (c) 2026 leongck1
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,25 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTICE REGARDING SOURCE MATERIAL
+
+This skill is a personal knowledge distillation based on reading notes from:
+
+  Jinpei Yagi (八木仁平). How to Find What You Want to Do (如何找到想做的事).
+  Translated by 徐艺菊. China Machine Press (机械工业出版社), 2023.
+  Originally published in Japanese as 世界一やさしい「やりたいこと」の見つけ方
+  ― 人生のモヤモヤから解放される自己理解メソッド (KADOKAWA, 2020).
+
+The skill file (SKILL.md), reference documents, and any other materials in this
+repository are original works — personal summaries, structured notes, and
+independently written content — created by the repository author.
+
+This repository does not reproduce substantial portions of the original text.
+It does not replace or substitute for the original book. All intellectual
+property rights in the original work remain with the author and publisher.
+
+The MIT License above applies to the original files in this repository only,
+not to the underlying book or its content.
